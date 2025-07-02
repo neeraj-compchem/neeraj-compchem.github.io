@@ -98,6 +98,10 @@ title: Home
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
 
+            {% if paper.website %}
+              <a class="button" href="{{ paper.website }}" target="_blank">Website</a>
+            {% endif %}
+
           </div>
         </div>
       {% endfor %}
