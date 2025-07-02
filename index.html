@@ -15,31 +15,6 @@ title: Home
   
 </div>
 
-<!--
-<div class="docs-section" id="prospective-students">  
-  <h4>Prospective Students</h4>
-  <p>
-  <span style="display: inline-block; margin-bottom: 5px">
-    <b>I'm recruiting PhD students to start Fall 2025 at the University of Washington!</b> 
-  </span>
-  <br/> 
-  <span style="display: inline-block; margin-bottom: 5px">
-    I'm looking for students passionate about developing new <u>social media algorithms</u>, both broadly and within the scope of this <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2403434" target="_blank">NSF grant</a> (collaboration with Stanford and Northwestern). For other examples, please see my recent publications. <br/>
-  </span>
-  <span style="display: inline-block; margin-bottom: 5px">
-    Students with strong technical skills and background or interest in social network analysis, machine learning, causal inference, or natural language processing would be a great fit.
-  </span>
-  <br/>
-  <span style="display: inline-block; margin-bottom: 5px">
-    If you are interested, please apply to the UW iSchool <a href="https://ischool.uw.edu/programs/phd/admissions" target="_blank">PhD program</a> and mention me in your application.
-  </span>
-  <br/>
-  <span>
-    If you have any questions, feel free to reach out.
-  </span>
-  </p> 
-</div>
--->
 
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
@@ -130,80 +105,6 @@ title: Home
   </div>
 </div>
 
-<!-- ========== PROJECTS ========== 
-<div class="docs-section" id="projects">
-  <h4>Projects</h4>
-
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
-    <li><div class="button" data-ref="#projects-all">All</div></li>
-  </ul>
-
-  <div class="tab-content">
-    <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="tab-pane" id="projects-all">
-      {% for project in site.data.projects.projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-
-</div>
--->
 
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
