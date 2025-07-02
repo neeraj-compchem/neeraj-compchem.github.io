@@ -50,6 +50,10 @@ title: Home
               <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
             {% endif %}
 
+            {% if paper.cover %}
+              <a class="button" href="{{ paper.cover | prepend: site.baseurl }}" target="_blank">Cover</a>
+            {% endif %}
+
             {% if paper.video %}
               <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
             {% endif %}
@@ -84,6 +88,10 @@ title: Home
 
             {% if paper.poster %}
               <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+
+            {% if paper.cover %}
+              <a class="button" href="{{ paper.cover | prepend: site.baseurl }}" target="_blank">Cover</a>
             {% endif %}
 
             {% if paper.video %}
