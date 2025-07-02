@@ -3,21 +3,21 @@ papers:
   - title: "Reranking Social Media Feeds: A Practical Guide for Field Experiments"
     authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne L Tsai, Michael S Bernstein"
     venue: "Arxiv'24: arXiv preprint. 2024."
-    abstract: "/assets/publications/2024_feedwizard_method/paper.pdf"
+    article: "/assets/publications/2024_feedwizard_method/paper.pdf"
     code: "https://github.com/StanfordHCI/FeedMonitor"
     selected: y
 
   - title: "Human Atlas: A Tool for Mapping Social Networks"
     authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
     venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    abstract: "/assets/publications/2016_human_atlas/paper.pdf"
+    article: "/assets/publications/2016_human_atlas/paper.pdf"
     video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
     selected: n
 
   - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
     authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
     venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
-    abstract: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
+    article: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
     poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
     slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
     selected: y
@@ -25,6 +25,6 @@ papers:
   - title: "Rational Designing of Bimetallic/Trimetallic Hydrogen Evolution Reaction Catalysts Using Supervised Machine Learning"
     authors: "<b>Neeraj Kumar Pandit</b>, Diptendu Roy, Shyama Charan Mandal, and Biswarup Pathak"
     venue: "J. Phys. Chem. Lett. 2022, 13, 7583–7593"
-    abstract: "https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01401"
+    article: "https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01401"
     cover: "/assets/publications/JPCL_2022_cover.jpg"
     selected: y
