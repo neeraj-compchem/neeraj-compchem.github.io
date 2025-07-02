@@ -24,6 +24,6 @@ papers:
 
   - title: "Rational Designing of Bimetallic/Trimetallic Hydrogen Evolution Reaction Catalysts Using Supervised Machine Learning"
     authors: "<b>Neeraj Kumar Pandit</b>, Diptendu Roy, Shyama Charan Mandal, and Biswarup Pathak"
-    doi: "<i>J. Phys. Chem. Lett.</i> <b>2022</b>, <i>13</i>, 7583–7593"
+    venue: "<i>J. Phys. Chem. Lett.</i> <b>2022</b>, <i>13</i>, 7583–7593"
     abstract: "https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01401"
     selected: y
