@@ -1,7 +1,8 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /msaveski
+title: "Neeraj Kumar"
+email: "neerajkumar.pndt@gmail.com"
+description: "website"
+baseurl: ""  
+url: "https://neeraj-compchem.github.io"
 
 collections:
   projects:
