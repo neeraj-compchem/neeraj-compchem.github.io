@@ -23,11 +23,13 @@ title: Home
 <!-- ========== NEWS ========== -->
 <div class="docs-section" id="news">
   <h4>News</h4>
-  <ul>
-    {% for item in site.data.news.news %}
-      <li><b>[{{ item.time }}]:</b> {{ item.news }}</li>
-    {% endfor %}
-  </ul>
+  <div class="news-box">
+    <ul class="news-list">
+      {% for item in site.data.news.news %}
+        <li><b>[{{ item.time }}]:</b> {{ item.news | markdownify }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 
 
