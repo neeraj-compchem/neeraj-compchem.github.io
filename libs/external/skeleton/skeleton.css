@@ -392,26 +392,6 @@ hr {
   clear: both; }
 
 
-/* News scroller
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.news-box {
-  max-height: 10em; /* Shows about 4–5 items depending on spacing */
-  overflow-y: auto;
-  border: 1px solid #ddd;
-  padding: 10px;
-  background-color: #f9f9f9;
-  border-radius: 6px;
-}
-
-.news-list {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.news-list li {
-  margin-bottom: 0.8em;
-}
 
 
 /* Media Queries
