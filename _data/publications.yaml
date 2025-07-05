@@ -21,7 +21,7 @@ papers:
     selected: y
 
   - title: "Parametrization of κ2-N,O-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations"
-    authors: "Suman Dana<sup>‡</sup>, <u>Neeraj Kumar Pandit</u><sup>‡</sup>, Philipp Boos<sup>‡</sup>, Tristan von Münchow, Sven Erik Peters, Sven Trienes, Laura Haberstock, Regine Herbst-Irmer, Dietmar Stalke, and Lutz Ackermann*"
+    authors: "Suman Dana<sup>‡</sup>, <u>Neeraj Kumar Pandit</u><sup>‡</sup>, Philipp Boos<sup>‡</sup>, Tristan von Münchow, Sven Erik Peters, Sven Trienes, Laura Haberstock, Regine Herbst-Irmer, Dietmar Stalke, and Lutz Ackermann"
     venue: "ACS Catal. 2025, 15, 4450-4459"
     article: "https://pubs.acs.org/doi/10.1021/acscatal.5c00250"
     code: "https://github.com/neeraj-compchem/Ligand-parameterization"
