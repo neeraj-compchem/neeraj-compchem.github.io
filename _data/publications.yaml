@@ -6,14 +6,14 @@ papers:
     article: "https://pubs.acs.org/doi/10.1021/acscatal.5c03002"
     selected: n
     
-  - title: "Multiple Atropo Selectivity by κ2-N,O-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C--H Activations: Decoding Selectivity with Data Science Integration"
+  - title: "Multiple Atropo Selectivity by κ2-N,O-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C–H Activations: Decoding Selectivity with Data Science Integration"
     authors: "Philipp Boos, <u>Neeraj Kumar Pandit</u>, Suman Dana, Tristan von Münchow, Airu Hashidoko, Laura Haberstock, Regine Herbst-Irmer, Dietmar Stalke, and Lutz Ackermann"
     venue: "ChemistryEurope 2025, 3, e202500071"
     article: "https://doi.org/10.1002/ceur.202500071"
     code: "https://github.com/neeraj-compchem/Multiple-Atropo-Selectivity-by-k2-N-O-Oxazoline-Urea-Ligand"
     selected: y
 
-  - title: "Enantioselective C–H annulations enabled by either nickel- or cobalt-electrocatalysed C--H activation for catalyst-controlled chemodivergence"
+  - title: "Enantioselective C–H annulations enabled by either nickel- or cobalt-electrocatalysed C–H activation for catalyst-controlled chemodivergence"
     authors: "Tristan von Münchow<sup>‡</sup>, <u>Neeraj Kumar Pandit</u><sup>‡</sup>, Suman Dana, Philipp Boos, Sven Erik Peters, Josselin Boucat, Yi-Ru Liu, Alexej Scheremetjew, and Lutz Ackermann"
     venue: "Nat. Catal. 2025, 8, 257-269"
     article: "https://doi.org/10.1038/s41929-025-01306-9"
