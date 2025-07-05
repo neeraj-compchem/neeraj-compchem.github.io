@@ -23,10 +23,10 @@ title: Home
 <!-- ========== NEWS ========== -->
 <div class="docs-section" id="news">
   <h4>News</h4>
-  <div class="news-box">
-    <ul class="news-list">
+  <div style="max-height: 180px; overflow-y: auto; background: #f9f9f9; padding: 15px; border-radius: 5px; border: 1px solid #ddd;">
+    <ul style="margin: 0; padding-left: 20px;">
       {% for item in site.data.news.news %}
-        <li><b>[{{ item.time }}]:</b> {{ item.news | markdownify }}</li>
+        <li><span style="font-weight: bold;">[{{ item.time }}]:</span> {{ item.news }}</li>
       {% endfor %}
     </ul>
   </div>
