@@ -1,4 +1,13 @@
 news:
 
-- time: "2025/07"
-  news: "Relaunched my personal website with a new design!"
+- time: "2024/03"
+  news: "Presented our poster at the International Leopoldina Symposium on Molecular Machine Learning in Halle (Saale), Germany, as part of SPP2363."
+
+- time: "2022/08"
+  news: "My first paper from my master's thesis was published in <a href=\"https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01401\" target=\"_blank\">JPCL</a>!"
+
+- time: "2022/08"
+  news: "Started my PhD, shifting from heterogeneous to homogeneous catalysis in machine learning applications."
+
+- time: "2022/05"
+  news: "Successfully defended my master's thesis! Excited to join the Ackermann Group at the University of Göttingen for my PhD."
