@@ -197,5 +197,6 @@ h4 {
   width: 100%;         /* or set to 150px if you want fixed size */
   height: auto;
   object-fit: cover;
+  border: 4px solid #ccc;      /* Light grey border */
 }
 
