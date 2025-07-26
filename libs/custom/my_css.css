@@ -191,3 +191,11 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+
+.profile-pic {
+  border-radius: 50%;
+  width: 100%;         /* or set to 150px if you want fixed size */
+  height: auto;
+  object-fit: cover;
+}
+
