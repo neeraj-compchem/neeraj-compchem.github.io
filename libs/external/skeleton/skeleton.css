@@ -157,12 +157,12 @@ p {
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* a {
-  color: #02856b; }
-a:hover {
-  color: #015143; } */
-
 a {
+  color: #015143; }
+a:hover {
+  color: #a4dbd0; }
+
+/* a {
   color: #015143;
   position: relative;
   text-decoration: none;
@@ -176,7 +176,7 @@ a::after {
   bottom: -2px;
   width: 0;
   height: 2px;
-  background-color: #a4dbd0; /* same as hover text color */
+  background-color: #a4dbd0; /* same as hover text color 
   transition: width 0.3s ease;
 }
 
@@ -186,7 +186,7 @@ a:hover {
 
 a:hover::after {
   width: 100%;
-}
+} */
 
 
 /* Buttons
