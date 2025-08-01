@@ -1,7 +1,12 @@
 name: "Neeraj Kumar Pandit"
 short_name: "Neeraj"
 title: "PhD student in Chemistry, University of Göttingen"
-area: "Computational Chemistry | Molecular Machine Learning | Cheminformatics"
+
+area_list:
+  - Computational Chemistry
+  - Molecular Machine Learning
+  - Cheminformatics
+
 email: "neerajkumar.pandit [AT] uni-goettingen.de"
 profile_pic: "/assets/profile-pics/my_photo1.jpg"
 # bsky: "https://bsky.app/profile/neerajkrpandit.bsky.social"
