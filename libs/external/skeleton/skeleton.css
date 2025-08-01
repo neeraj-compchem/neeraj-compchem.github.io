@@ -157,10 +157,36 @@ p {
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-a {
+/* a {
   color: #02856b; }
 a:hover {
-  color: #015143; }
+  color: #015143; } */
+
+a {
+  color: #015143;
+  position: relative;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background-color: #a4dbd0; /* same as hover text color */
+  transition: width 0.3s ease;
+}
+
+a:hover {
+  color: #a4dbd0;
+}
+
+a:hover::after {
+  width: 100%;
+}
 
 
 /* Buttons
