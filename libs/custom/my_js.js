@@ -42,14 +42,14 @@ $(document).ready(function() {
     const hash = window.location.hash || '#home';
     const targetId = hash.replace('#', '');
 
-    if (hash === '#home' || hash === '#bio' || hash === '') {
+    if (hash === '#home' || hash === '#bio' || hash === '#acknowledgment' || hash === '') {
       showOnly(['bio', 'news', 'acknowledgment']);
     } else {
       const target = $('#' + targetId);
       if (target.length) {
         showOnly([targetId]);
       } else {
-        showOnly(['bio', 'news']); // fallback
+        showOnly(['bio', 'news', 'acknowledgment']); // fallback
       }
     }
   }
