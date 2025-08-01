@@ -75,12 +75,13 @@
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
             <p>{{ site.data.main_info.title }}</p>
-            <p><span class="email-address">{{ site.data.main_info.email }}</span></p>
             <div class="research-tags">
               {% for tag in site.data.main_info.area_list %}
                 <span class="research-tab">{{ tag }}</span>
               {% endfor %}
             </div>
+            <p><span class="email-address">{{ site.data.main_info.email }}</span></p>
+
 
 
             <p>
