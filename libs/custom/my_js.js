@@ -49,7 +49,7 @@ $(document).ready(function() {
       if (target.length) {
         showOnly([targetId]);
       } else {
-        showOnly(['bio', 'news']); // fallback
+        showOnly(['bio', 'news', 'acknowledgment']); // fallback
       }
     }
   }
