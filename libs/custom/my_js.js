@@ -23,7 +23,35 @@ $(document).ready(function() {
     $popoverLink.on('click', openPopover)
     $document.on('click', closePopover)
     $('a[href^="#"]').on('click', smoothScroll)
+    handleHashChange(); // first section load
+    $(window).on('hashchange', handleHashChange); // navigation
     buildSnippets();
+  }
+
+  function showOnly(idsToShow) {
+    $('.docs-section').each(function () {
+      if (idsToShow.includes(this.id)) {
+        $(this).addClass('show');
+      } else {
+        $(this).removeClass('show');
+      }
+    });
+  }
+
+  function handleHashChange() {
+    const hash = window.location.hash || '#home';
+    const targetId = hash.replace('#', '');
+
+    if (hash === '#home' || hash === '#bio' || hash === '') {
+      showOnly(['bio', 'news']);
+    } else {
+      const target = $('#' + targetId);
+      if (target.length) {
+        showOnly([targetId]);
+      } else {
+        showOnly(['bio', 'news']); // fallback
+      }
+    }
   }
 
   function smoothScroll(e) {
