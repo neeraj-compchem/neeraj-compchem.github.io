@@ -260,6 +260,7 @@ h4 {
 
 .research-tags {
   margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .research-tab {
@@ -267,7 +268,7 @@ h4 {
   background-color: #BFD8D8;
   color: #222;
   font-size: 11px;
-  font-weight: 600;
+  font-weight: 500;
   padding: 5px 10px;
   margin: 4px 6px 0 0;
   border-radius: 12px;
