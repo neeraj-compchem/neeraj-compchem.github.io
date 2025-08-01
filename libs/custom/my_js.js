@@ -43,13 +43,13 @@ $(document).ready(function() {
     const targetId = hash.replace('#', '');
 
     if (hash === '#home' || hash === '#bio' || hash === '') {
-      showOnly(['bio', 'news']);
+      showOnly(['bio', 'news', 'acknowledgment']);
     } else {
       const target = $('#' + targetId);
       if (target.length) {
         showOnly([targetId]);
       } else {
-        showOnly(['bio', 'news', 'acknowledgment']); // fallback
+        showOnly(['bio', 'news']); // fallback
       }
     }
   }
