@@ -75,14 +75,8 @@
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
             <p>{{ site.data.main_info.title }}</p>
-            <div class="research-tags">
-              {% for tag in site.data.main_info.area_list %}
-                <span class="research-tab">{{ tag }}</span>
-              {% endfor %}
-            </div>
-            <p><span class="email-address">{{ site.data.main_info.email }}</span></p>
-
-
+            <p>{{ site.data.main_info.area_list }}</p>
+            <p>{{ site.data.main_info.email }}</p>
 
             <p>
 <!--               <span onclick="window.open('{{ site.data.main_info.bsky }}')" style="cursor: pointer">
