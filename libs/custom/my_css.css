@@ -115,6 +115,14 @@ h4 {
   }
 }
 
+.social-icon i {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.social-icon:hover i {
+  transform: scale(1.25);
+  color: #02856B; 
+}
 
 
 /* Larger than tablet */
