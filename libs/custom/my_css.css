@@ -257,6 +257,11 @@ h4 {
 }
 
 
+.email-address {
+  font-size: 0.85em;
+  font-family: 'Courier New', monospace;
+  color: #333;
+}
 
 .research-tags {
   margin-top: 3px;
