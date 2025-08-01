@@ -259,7 +259,7 @@ h4 {
 
 
 .research-tags {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .research-tab {
@@ -273,9 +273,4 @@ h4 {
   border-radius: 12px;
   white-space: nowrap;
   transition: background-color 0.3s;
-}
-
-.research-tab:hover {
-  background-color: #a7c9c9;
-  cursor: default;
 }
