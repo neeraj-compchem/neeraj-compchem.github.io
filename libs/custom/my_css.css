@@ -256,3 +256,26 @@ h4 {
   cursor: pointer;
 }
 
+
+
+.research-tags {
+  margin-top: 10px;
+}
+
+.research-tab {
+  display: inline-block;
+  background-color: #BFD8D8;
+  color: #222;
+  font-size: 0.85em;
+  font-weight: 600;
+  padding: 5px 10px;
+  margin: 4px 6px 0 0;
+  border-radius: 12px;
+  white-space: nowrap;
+  transition: background-color 0.3s;
+}
+
+.research-tab:hover {
+  background-color: #a7c9c9;
+  cursor: default;
+}
