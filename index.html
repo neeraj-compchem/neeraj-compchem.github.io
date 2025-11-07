@@ -149,6 +149,10 @@ title: Home
               <a class="button" href="{{ paper.press }}" target="_blank">Press</a>
             {% endif %}
 
+            {% if paper.highlighted %}
+              <a class="button" href="{{ paper.highlighted }}" target="_blank">Highlighted</a>
+            {% endif %}
+
           </div>
         </div>
       {% endfor %}
