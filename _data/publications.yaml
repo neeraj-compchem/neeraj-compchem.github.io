@@ -25,6 +25,7 @@ papers:
     venue: "ACS Catal. 2025, 15, 4450-4459"
     article: "https://pubs.acs.org/doi/10.1021/acscatal.5c00250"
     code: "https://github.com/neeraj-compchem/Ligand-parameterization"
+    synfacts: "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2703-1326"
     selected: y
 
   - title: "Iron-Catalyzed C−H Alkylation/Ring Opening with Vinylbenzofurans Enabled by Triazoles"
