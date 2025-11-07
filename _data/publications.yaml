@@ -11,14 +11,14 @@ papers:
     venue: "ChemistryEurope 2025, 3, e202500071"
     article: "https://doi.org/10.1002/ceur.202500071"
     code: "https://github.com/neeraj-compchem/Multiple-Atropo-Selectivity-by-k2-N-O-Oxazoline-Urea-Ligand"
-    ChemistryViews: "https://doi.org/10.1002/chemv.202500055"
+    highlighted: "https://doi.org/10.1002/chemv.202500055"
     selected: y
 
   - title: "Enantioselective C–H annulations enabled by either nickel- or cobalt-electrocatalysed C–H activation for catalyst-controlled chemodivergence"
     authors: "Tristan von Münchow<sup>‡</sup>, <u>Neeraj Kumar Pandit</u><sup>‡</sup>, Suman Dana, Philipp Boos, Sven Erik Peters, Josselin Boucat, Yi-Ru Liu, Alexej Scheremetjew, and Lutz Ackermann"
     venue: "Nat. Catal. 2025, 8, 257-269"
     article: "https://doi.org/10.1038/s41929-025-01306-9"
-    press: "https://www.uni-goettingen.de/en/50225.html?id=7747"
+    highlighted: "https://www.uni-goettingen.de/en/50225.html?id=7747"
     selected: y
 
   - title: "Parametrization of <i>&kappa;</i><sup>2</sup>-<i>N</i>,<i>O</i>-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations"
@@ -26,7 +26,7 @@ papers:
     venue: "ACS Catal. 2025, 15, 4450-4459"
     article: "https://pubs.acs.org/doi/10.1021/acscatal.5c00250"
     code: "https://github.com/neeraj-compchem/Ligand-parameterization"
-    synfacts: "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2703-1326"
+    highlighted: "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2703-1326"
     selected: y
 
   - title: "Iron-Catalyzed C−H Alkylation/Ring Opening with Vinylbenzofurans Enabled by Triazoles"
