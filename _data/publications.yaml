@@ -18,7 +18,7 @@ papers:
     authors: "Tristan von Münchow<sup>‡</sup>, <u>Neeraj Kumar Pandit</u><sup>‡</sup>, Suman Dana, Philipp Boos, Sven Erik Peters, Josselin Boucat, Yi-Ru Liu, Alexej Scheremetjew, and Lutz Ackermann"
     venue: "Nat. Catal. 2025, 8, 257-269"
     article: "https://doi.org/10.1038/s41929-025-01306-9"
-    highlighted: "https://www.uni-goettingen.de/en/50225.html?id=7747"
+    press: "https://www.uni-goettingen.de/en/50225.html?id=7747"
     selected: y
 
   - title: "Parametrization of <i>&kappa;</i><sup>2</sup>-<i>N</i>,<i>O</i>-Oxazoline Preligands for Enantioselective Cobaltaelectro-Catalyzed C–H Activations"
@@ -35,7 +35,7 @@ papers:
     article: "https://doi.org/10.1002/anie.202404319"
     selected: n
 
-  - title: "Electrocatalytic Formal C(sp2)−H Alkylations via Nickel-Catalyzed Cross-Electrophile Coupling with Versatile Arylsulfonium Salts"
+  - title: "Electrocatalytic Formal C(sp<sup>2</sup>)−H Alkylations via Nickel-Catalyzed Cross-Electrophile Coupling with Versatile Arylsulfonium Salts"
     authors: "Takuya Michiyuki, Simon L. Homölle, <u>Neeraj Kumar Pandit</u>, and Lutz Ackermann"
     venue: "Angew. Chem. Int. Ed. 2024, 63, e202401198"
     article: "https://doi.org/10.1002/anie.202401198"
