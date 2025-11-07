@@ -11,6 +11,7 @@ papers:
     venue: "ChemistryEurope 2025, 3, e202500071"
     article: "https://doi.org/10.1002/ceur.202500071"
     code: "https://github.com/neeraj-compchem/Multiple-Atropo-Selectivity-by-k2-N-O-Oxazoline-Urea-Ligand"
+    ChemistryViews: "https://doi.org/10.1002/chemv.202500055"
     selected: y
 
   - title: "Enantioselective C–H annulations enabled by either nickel- or cobalt-electrocatalysed C–H activation for catalyst-controlled chemodivergence"
