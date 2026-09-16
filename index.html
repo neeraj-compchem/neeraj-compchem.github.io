@@ -97,6 +97,10 @@ title: Home
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
 
+            {% if paper.preprint %}
+              <a class="button" href="{{ paper.preprint }}" target="_blank">Preprint</a>
+            {% endif %}
+
             {% if paper.press %}
               <a class="button" href="{{ paper.press }}" target="_blank">Press</a>
             {% endif %}
@@ -143,6 +147,10 @@ title: Home
 
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+
+            {% if paper.preprint %}
+              <a class="button" href="{{ paper.preprint }}" target="_blank">Preprint</a>
             {% endif %}
 
             {% if paper.website %}
