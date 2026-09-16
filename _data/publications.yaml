@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Graph attention framework for site-selectivity prediction in undirected C(sp3)–H borylation"
+    authors: "<u>Neeraj Kumar Pandit</u>, Max Surke, Parveen Rawal, and Lutz Ackermann"
+    preprint: "https://doi.org/10.26434/chemrxiv.15008230/v1"
+    selected: y
+    
   - title: "Stereocontrolled Construction of Multi-Chiral [2.2]Paracyclophanes via Cobaltaphotoredox Dual Catalysis"
     authors: "Yang Xu, <u>Neeraj Kumar Pandit</u>, Silvia Meraviglia, Philipp Boos, Paula Anna Maria Stark, Max Surke, Regine Herbst-Irmer, Dietmar Stalke, and Lutz Ackermann"
     venue: "ACS Catal. 2025, 15, 11716-11725"
