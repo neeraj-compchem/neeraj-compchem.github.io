@@ -1,6 +1,6 @@
 papers:
 
-  - title: "Graph attention framework for site-selectivity prediction in undirected C(sp3)–H borylation"
+  - title: "Graph attention framework for site-selectivity prediction in undirected C(sp<sup>3</sup>)–H borylation"
     authors: "<u>Neeraj Kumar Pandit</u>, Max Surke, Parveen Rawal, and Lutz Ackermann"
     preprint: "https://doi.org/10.26434/chemrxiv.15008230/v1"
     selected: y
